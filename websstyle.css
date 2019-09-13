@@ -1,0 +1,19 @@
+.jumbotron
+{
+background-image: url(images/hero.jpg);
+background-size: cover;
+color: white;
+}
+.card-deck
+{
+padding: 30px;
+}
+body{
+    background-color: white;
+}
+#footer-main{
+    background-color: rgb(252, 102, 102);
+}
+.container{
+    margin-top: 10px;
+}
